@@ -1,1 +1,2 @@
-export const bananas = 'bananas'
+const bananas = 'bananas'
+export default bananas

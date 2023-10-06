@@ -1,1 +1,3 @@
-export * from './bananas'
+import bananas from './bananas';
+export default bananas;
+
